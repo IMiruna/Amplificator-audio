@@ -1,0 +1,46 @@
+Info: Checking netlist symbol footprint “Q2:/5C0AC11F:Package_TO_SOT_THT:TO-92_Inline”.
+
+Info: Checking netlist symbol footprint “U1:/5C0A99E6:Package_DIP:DIP-8-N6_W7.62mm”.
+
+Info: Checking netlist symbol footprint “RV3:/5C0CBAE7:Potentiometer_THT:Potentiometer_Bourns_3006P_Horizontal”.
+
+Info: Checking netlist symbol footprint “RV2:/5C0C41BB:Potentiometer_THT:Potentiometer_Bourns_3006P_Horizontal”.
+
+Info: Checking netlist symbol footprint “RV1:/5C0C60A1:Potentiometer_THT:Potentiometer_Bourns_3006P_Horizontal”.
+
+Info: Checking netlist symbol footprint “R7:/5C0A9634:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “R6:/5C0A9774:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “R4:/5C0B26F9:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “R2:/5C0A96AE:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “R1:/5C0A95C0:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “Q4:/5C0AF7A6:Package_TO_SOT_THT:TO-220-3_Vertical”.
+
+Info: Checking netlist symbol footprint “Q3:/5C0AF630:Package_TO_SOT_THT:TO-220-3_Vertical”.
+
+Info: Checking netlist symbol footprint “C1:/5C0D155A:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm”.
+
+Info: Checking netlist symbol footprint “Q1:/5C0ABA83:Package_TO_SOT_THT:TO-92_Inline”.
+
+Info: Checking netlist symbol footprint “J2:/5C0C7417:TerminalBlock:TerminalBlock_bornier-2_P5.08mm”.
+
+Info: Checking netlist symbol footprint “J1:/5C0B6255:TerminalBlock:TerminalBlock_bornier-2_P5.08mm”.
+
+Info: Checking netlist symbol footprint “D4:/5C0AA968:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “D3:/5C0AA934:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “D2:/5C0AA8B6:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “D1:/5C0AA8FE:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal”.
+
+Info: Checking netlist symbol footprint “C4:/5C0D1CBF:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm”.
+
+Info: Checking netlist symbol footprint “C3:/5C0D2575:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm”.
+
+Info: Checking netlist symbol footprint “C2:/5C0A9943:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm”.
+
